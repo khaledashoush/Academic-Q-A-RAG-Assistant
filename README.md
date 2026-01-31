@@ -90,13 +90,13 @@ Before running the application, ensure you have the following installed:
 
 ---
 
-### How it working:
-# 1. install requirements.txt ---> pip install -r requirements.txt 
-# 2. Download and install Ollama from https://ollama.ai
-  # Then run:
+# How it working:
+### 1. install requirements.txt ---> pip install -r requirements.txt 
+### 2. Download and install Ollama from https://ollama.ai
+  ### Then run:
    -ollama pull llama3
    -ollama serve
-# 3. Run the application ------>   streamlit run app.py
+### 3. Run the application ------>   streamlit run app.py
 
 
 ## 📂 Project Structure
